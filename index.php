@@ -5,8 +5,5 @@
 <?php echo "รหัสนิสิต-62310291"; ?><br>
 <?php echo "ชื่อ-สกุล นายณัฐพงค์ หงษาวงค์"; ?><br>
 <?php echo "https://youtu.be/bNVPoFTEj6c"; ?><br>
-<iframe width="500" height="500"
-src="https://youtu.be/bNVPoFTEj6c">
-</iframe>
-</BODY>
-</HTML>
+
+</HTML><iframe width="560" height="315" src="https://www.youtube.com/embed/bNVPoFTEj6c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
